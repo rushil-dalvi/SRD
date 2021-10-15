@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to right, rgb(0, 255, 0),rgb(5, 255, 5), rgb(3, 205, 255),  rgb(0, 131, 253));
+}
+.labelll
+{
+   font-size: 40px;
+    width:6-px;
+    height: px;
+    margin: 100px;
+    margin-top: 200px;
+    padding: 20px;
+    font-family: monospace;
+    font-style: italic;
+    box-shadow:  5px 5px 5px 10px black;
+}
+.labelll1
+{
+   font-size: 40px;
+    width:6-px;
+    height: px;
+    margin: 100px;
+    margin-top: 200px;
+    padding: 20px;
+    font-family: monospace;
+    font-style: italic;
+    box-shadow:  5px 5px 5px 10px black;
+}
+.labelll2
+{
+   font-size: 40px;
+    width:6-px;
+    height: px;
+    margin: 100px;
+    margin-top: 200px;
+    padding: 20px;
+    font-family: monospace;
+    font-style: italic;
+    box-shadow:  5px 5px 5px 10px black;
+}
+.labelll3
+{
+   font-size: 40px;
+    width:6-px;
+    height: px;
+    margin: 100px;
+    margin-top: 200px;
+    padding: 20px;
+    font-family: monospace;
+    font-style: italic;
+    box-shadow:  5px 5px 5px 10px black;
+}
+.labelll4
+{
+   font-size: 40px;
+    width:6-px;
+    height: px;
+    margin: 100px;
+    margin-top: 200px;
+    padding: 20px;
+    font-family: monospace;
+    font-style: italic;
+    box-shadow:  5px 5px 5px 10px black;
+}
+.labelll5
+{
+   font-size: 40px;
+    width:6-px;
+    height: px;
+    margin: 100px;
+    margin-top: 200px;
+    padding: 20px;
+    font-family: monospace;
+    font-style: italic;
+    box-shadow:  5px 5px 5px 10px black;
+}
+.labelll6
+{
+   font-size: 40px;
+    width:6-px;
+    height: px;
+    margin: 100px;
+    margin-top: 200px;
+    padding: 20px;
+    font-family: monospace;
+    font-style: italic;
+    box-shadow:  5px 5px 5px 10px black;
+}
+.labelll7
+{
+   font-size: 40px;
+   position: relative;
+    width:6-px;
+    height: px;
+    margin: 100px;
+    margin-top: 200px;
+    padding: 20px;
+    font-family: monospace;
+    font-style: italic;
+    box-shadow:  5px 5px 5px 10px black;
+}
+.labelll8
+{
+   font-size: 40px;
+    width:6-px;
+    height: px;
+    margin: 100px;
+    margin-top: 200px;
+    padding: 10px;
+    font-family: monospace;
+    font-style: italic;
+    box-shadow:  5px 5px 5px 10px black;
+}

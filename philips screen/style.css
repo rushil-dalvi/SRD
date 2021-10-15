@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+   
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to right, rgb(0, 255, 0),rgb(5, 255, 5), rgb(3, 205, 255),  rgb(0, 131, 253));
+}
+.multigromer
+{
+    width:400px;
+    height: 400px;
+    margin-left: 10px;
+    border-radius: 20px;
+    margin-top: 10;
+}
